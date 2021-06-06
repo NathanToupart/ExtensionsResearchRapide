@@ -1,0 +1,25 @@
+.container{
+    width: 400px;
+    border-radius: 1em;
+    background-color: rgb(229, 237, 241);
+    align-items: center;
+    display: flex;
+    padding: 1em;
+}
+
+.flex1{
+    flex: 1;
+    margin-left: 1em;
+}
+
+.btn{
+    background-color: dodgerblue;
+    padding: 0.25em;
+    border-radius: 0.5em;
+    border: none;
+    color: white;
+}
+
+.imput{
+    border: none;
+}
